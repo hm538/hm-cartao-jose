@@ -4,7 +4,7 @@ window.HM_PROFILE = {
   slug: "neto",
   name: "Neto Hoffmann",
   role: "CEO da HM Digital",
-  photo: "",                            // ex.: "/assets/img/foto.jpg" (vazio = iniciais)
+  photo: "/assets/img/foto.jpg",
   status: "Agenda aberta",
   bio: [
       "Sou Neto Hoffmann, CEO da HM Digital. A gente ajuda empresas a crescer unindo marketing e tecnologia no mesmo lugar.",
