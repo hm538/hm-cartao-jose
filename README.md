@@ -1,6 +1,6 @@
-# Cartão digital · José Neto Hoffmann
+# Cartão digital · Neto Hoffmann
 
-Cartão digital de José, CEO da HM Digital, com a abertura animada do gimbal: ele entra pulando, sobe nas letras, amassa o "I" de DIGITAL e acende a tela, revelando o logo da HM.
+Cartão digital de Neto, CEO da HM Digital, com a abertura animada do gimbal: ele entra pulando, sobe nas letras, amassa o "I" de DIGITAL e acende a tela, revelando o logo da HM.
 
 ## Editar os dados
 
