@@ -3,15 +3,15 @@
 window.HM_PROFILE = {
   slug: "neto",
   name: "Neto Hoffmann",
-  role: "CEO da HM Digital",
+  role: "Sócio-fundador · Tecnologia & Crescimento",
   photo: "/assets/img/foto.jpg",
   status: "Agenda aberta",
   bio: [
-      "Sou Neto Hoffmann, CEO da HM Digital. A gente ajuda empresas a crescer unindo marketing e tecnologia no mesmo lugar.",
-      "Na HM, cuidamos do marketing que traz o cliente e dos sistemas que organizam a operação: CRM, delivery, automações e sistemas sob medida.",
-      "Meu foco é fazer sua empresa ser encontrada, lembrada e escolhida, com processos que funcionam de verdade por trás."
+      "Sou o Neto, sócio-fundador da HM Digital. Cuido da parte que faz a empresa crescer por dentro: sistemas, CRM, automações e delivery.",
+      "Gosto de transformar processos bagunçados em ferramentas simples, que economizam tempo e mostram de onde vem cada venda.",
+      "Se a sua empresa já atrai clientes mas perde oportunidades no caminho, é comigo que você fala."
   ],
-  signature: "HM Digital. Marketing e tecnologia para crescer.",
+  signature: "Tecnologia que faz sua empresa crescer.",
   whatsapp: "5562984134046",          // DDI + DDD + número, só dígitos
   whatsappMsg: "Olá, Neto! Vim pelo seu cartão digital.",
   phone: "+55 62 98413-4046",
